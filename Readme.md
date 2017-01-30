@@ -26,10 +26,20 @@
 
 ## Entwicklung
 
+### Einstieg
+
+* [Angular Syntax](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+
 
 ### Formulare
 
 * [Live-Demo für Angular Formulare](https://www.youtube.com/watch?v=xYv9lsrV0s4)
+
+### Routing
+
+* [Routing Basis Überblick](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
+* Routen absichern: [Route Guards](https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html)
+* Daten via Router nachladen: [Route Resolver](https://blog.thoughtram.io/angular/2016/10/10/resolving-route-data-in-angular-2.html)
 
 ## Debugging
 
@@ -41,3 +51,4 @@
 
 * Ein exzellenter Artikel zur Einführung in verschiedene [Test-Strategien für Unit- und Komponententests in Angular](https://angular.io/docs/ts/latest/testing/).
 * Eine gute [Einführung in End-to-End Tests in Angular.](http://www.javascripttuts.com/e2e-testing-angular-2-zero-hero-final-part/)
+* [Services mit HTTP-Kommunikation testen](https://blog.thoughtram.io/angular/2016/11/28/testing-services-with-http-in-angular-2.html)
