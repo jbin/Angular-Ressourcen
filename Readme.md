@@ -53,3 +53,4 @@
 * Eine gute [Einführung in End-to-End Tests in Angular.](http://www.javascripttuts.com/e2e-testing-angular-2-zero-hero-final-part/)
 * [Services mit HTTP-Kommunikation testen](https://blog.thoughtram.io/angular/2016/11/28/testing-services-with-http-in-angular-2.html)
 * [Testguide von den Google Developer Experts](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0#.e2lknurx1)
+* [Einführung in Unit-Test - Microsoft Ignite](https://channel9.msdn.com/Events/Ignite/Australia-2017/OPEN331) **Video**
