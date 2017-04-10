@@ -7,7 +7,7 @@
 
 ## Offizielle Dokumentation
 
-* Offizielle [Angular mit TypeScript Dokumentaion](https://angular.io/docs/ts/latest/)
+* Offizielle [Angular mit TypeScript Dokumentation](https://angular.io/docs/ts/latest/)
 * Filterbare [API-Referenz](https://angular.io/docs/ts/latest/api/) für die jeweils aktuelle Version von Angular
 
 ## Community
