@@ -23,6 +23,7 @@
 
 * Das kostenlose [E-Book der Firma Rangle.io zum Thema Angular](https://angular-2-training-book.rangle.io/)
 * [Angular 2 - A Practical Introduction to the new Web Development Platform](https://leanpub.com/angular2-book) von Sebastian Eschweiler auf LeanPub
+* [Angular - Grundlagen, fortgeschrittene Techniken und Best Practices mit TypeScript](https://angular-buch.com/) vom dpunkt.verlag, 574 Seiten
 
 ## Entwicklung
 
